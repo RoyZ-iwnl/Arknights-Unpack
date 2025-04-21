@@ -1,7 +1,7 @@
 # Arknights-Unpack解包工具
 支持2025.4.7更新后的CN客户端
 
-## Usege
+## Usage
 
 需要解包的内容放入程序同目录的avg文件夹
 
